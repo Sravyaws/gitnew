@@ -1,2 +1,0 @@
-# gitnew
-this is new
